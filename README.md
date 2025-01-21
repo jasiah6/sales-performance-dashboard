@@ -20,11 +20,11 @@ This project is an interactive data analysis and visualization dashboard using *
 ### How to Run:
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/sales-dashboard.git
+    git clone https://github.com/jasiah6/sales-performance-dashboard.git
     ```
 2. Navigate to the project directory:
     ```
-    cd sales-dashboard
+    cd sales-performance-dashboard
     ```
 3. Install the dependencies:
     ```
